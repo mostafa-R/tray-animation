@@ -1,0 +1,60 @@
+import foodImage from "../img/vecteezy_korean-instant-noodle-and-tteokbokki-in-korean-spicy-sauce_6840393.jpg";
+
+export const items = [
+  {
+    id: Math.random(),
+    title: "وجبه الافطار",
+    price: "40 جنيه",
+    description: "وجبه الافطار تحتوي علي البيض والخبز والزبده والمربي",
+    Catogrey: "فطار",
+    img: foodImage,
+  },
+  {
+    id: Math.random(),
+    title: "وجبه الغداء",
+    price: "100 جنيه",
+    description: "وجبه الغداء تحتوي علي البيض والخبز والزبده والمربي",
+    Catogrey: "الغداء",
+    img: foodImage,
+  },
+  {
+    id: Math.random(),
+    title: "وجبه الغداء",
+    price: "100 جنيه",
+    description: "وجبه الغداء تحتوي علي البيض والخبز والزبده والمربي",
+    Catogrey: "الغداء",
+    img: foodImage,
+  },
+  {
+    id: Math.random(),
+    title: "وجبه العشاء",
+    price: "60 جنيه",
+    description: "وجبه العشاء تحتوي علي البيض والخبز والزبده والمربي",
+    Catogrey: "العشاء",
+    img: foodImage,
+  },
+  {
+    id: Math.random(),
+    title: "وجبه الافطار",
+    price: "80 جنيه",
+    description: "وجبه الافطار تحتوي علي البيض والخبز والزبده والمربي",
+    Catogrey: "فطار",
+    img: foodImage,
+  },
+  {
+    id: Math.random(),
+    title: "وجبه العشاء",
+    price: "70 جنيه",
+    description: "وجبه العشاء تحتوي علي البيض والخبز والزبده والمربي",
+    Catogrey: "العشاء",
+    img: foodImage,
+  },
+  {
+    id: Math.random(),
+    title: "وجبه الغداء",
+    price: "150 جنيه",
+    description: "وجبه الغداء تحتوي علي البيض والخبز والزبده والمربي",
+    Catogrey: "الغداء",
+    img: foodImage,
+  },
+];
