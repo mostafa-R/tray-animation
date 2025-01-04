@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tray-animation/static/css/main.ddd47898.css",
+    "main.js": "/tray-animation/static/js/main.6062bb84.js",
+    "static/media/vecteezy_korean-instant-noodle-and-tteokbokki-in-korean-spicy-sauce_6840393.jpg": "/tray-animation/static/media/vecteezy_korean-instant-noodle-and-tteokbokki-in-korean-spicy-sauce_6840393.144f3b131eaac6a2634c.jpg",
+    "index.html": "/tray-animation/index.html",
+    "main.ddd47898.css.map": "/tray-animation/static/css/main.ddd47898.css.map",
+    "main.6062bb84.js.map": "/tray-animation/static/js/main.6062bb84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd47898.css",
+    "static/js/main.6062bb84.js"
+  ]
+}
